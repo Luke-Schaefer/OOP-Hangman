@@ -1,4 +1,4 @@
-#Object Oriented Hangman
+**# Object Oriented Hangman**
 A user-friendly game of Hangman created in C++. Staple mechanisms such as save slots, difficulty and topic were included. Unit tests were performed for regression testing. Integration tests were performed manually.
 
 ## **Features**
